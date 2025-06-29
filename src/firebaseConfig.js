@@ -1,11 +1,12 @@
 // Replace with your Firebase config from console
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyC4kKwTdRWX20U4FxinMdH2AXLrFmYH1VU",
+  authDomain: "mess-management-7c820.firebaseapp.com",
+  projectId: "mess-management-7c820",
+  storageBucket: "mess-management-7c820.firebasestorage.app",
+  messagingSenderId: "610330608758",
+  appId: "1:610330608758:web:4c3f8a3434b6305602cb57",
+  measurementId: "G-XDREVTWYTE"
 };
 
 export default firebaseConfig;
